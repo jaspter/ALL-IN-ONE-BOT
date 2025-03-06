@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://gamingbot3:gaming2275@cluster0.qieot.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
